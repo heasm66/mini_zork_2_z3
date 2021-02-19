@@ -9,7 +9,7 @@
         .FSTR FSTR?7,"s the "            ;   51x, saved 198
         .FSTR FSTR?8,"The Wizard "       ;   16x, saved 163
         .FSTR FSTR?9,"The dragon "       ;   15x, saved 138
-        .FSTR FSTR?10,"The "              ;  200x, saved 595
+        .FSTR FSTR?10,"The "              ;  201x, saved 598
         .FSTR FSTR?11," the "             ;  184x, saved 547
         .FSTR FSTR?12,"There is a "       ;   22x, saved 208
         .FSTR FSTR?13,"You can't "        ;   34x, saved 328
@@ -23,7 +23,7 @@
         .FSTR FSTR?21," and "             ;   78x, saved 229
         .FSTR FSTR?22,", "                ;  197x, saved 194
         .FSTR FSTR?23," of "              ;   98x, saved 192
-        .FSTR FSTR?24,". "                ;  184x, saved 181
+        .FSTR FSTR?24,". "                ;  183x, saved 180
         .FSTR FSTR?25,"You "              ;   61x, saved 178
         .FSTR FSTR?26," crystal sphere"   ;    9x, saved 102
         .FSTR FSTR?27," to "              ;   85x, saved 166
@@ -59,10 +59,10 @@
         .FSTR FSTR?57,"s."                ;   62x, saved 59
         .FSTR FSTR?58,"A "                ;   62x, saved 59
         .FSTR FSTR?59,"Frobozz"           ;   11x, saved 58
-        .FSTR FSTR?60,"re "               ;   60x, saved 57
-        .FSTR FSTR?61,"t."                ;   59x, saved 56
-        .FSTR FSTR?62,"aquarium"          ;   10x, saved 52
-        .FSTR FSTR?63," has "             ;   19x, saved 52
+        .FSTR FSTR?60,"aquarium"          ;   11x, saved 58
+        .FSTR FSTR?61,"re "               ;   60x, saved 57
+        .FSTR FSTR?62,"t."                ;   59x, saved 56
+        .FSTR FSTR?63," has "             ;   20x, saved 55
         .FSTR FSTR?64," you"              ;   28x, saved 52
         .FSTR FSTR?65,"one "              ;   28x, saved 52
         .FSTR FSTR?66,"open"              ;   28x, saved 52
