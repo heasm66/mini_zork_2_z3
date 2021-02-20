@@ -1,101 +1,101 @@
         ; Frequent words file for mini2.zap
 
-        .FSTR FSTR?1,"s from the "       ;   14x, saved 115
-        .FSTR FSTR?2," to the "          ;   34x, saved 196
-        .FSTR FSTR?3," in the "          ;   35x, saved 202
-        .FSTR FSTR?4," on the "          ;   20x, saved 112
-        .FSTR FSTR?5," of the "          ;   38x, saved 220
-        .FSTR FSTR?6,"The princess "     ;   12x, saved 130
-        .FSTR FSTR?7,"s the "            ;   51x, saved 198
-        .FSTR FSTR?8,"The Wizard "       ;   16x, saved 163
-        .FSTR FSTR?9,"The dragon "       ;   15x, saved 138
-        .FSTR FSTR?10,"The "              ;  201x, saved 598
-        .FSTR FSTR?11," the "             ;  184x, saved 547
-        .FSTR FSTR?12,"There is a "       ;   22x, saved 208
-        .FSTR FSTR?13,"You can't "        ;   34x, saved 328
-        .FSTR FSTR?14,", and "            ;   31x, saved 148
-        .FSTR FSTR?15," is a "            ;   36x, saved 138
-        .FSTR FSTR?16," your "            ;   40x, saved 154
-        .FSTR FSTR?17,"ing "              ;  137x, saved 270
-        .FSTR FSTR?18," is "              ;  132x, saved 260
-        .FSTR FSTR?19," you "             ;   85x, saved 250
-        .FSTR FSTR?20,"You are "          ;   23x, saved 152
-        .FSTR FSTR?21," and "             ;   78x, saved 229
-        .FSTR FSTR?22,", "                ;  197x, saved 194
-        .FSTR FSTR?23," of "              ;   98x, saved 192
-        .FSTR FSTR?24,". "                ;  183x, saved 180
-        .FSTR FSTR?25,"You "              ;   61x, saved 178
-        .FSTR FSTR?26," crystal sphere"   ;    9x, saved 102
-        .FSTR FSTR?27," to "              ;   85x, saved 166
-        .FSTR FSTR?28," with "            ;   42x, saved 162
-        .FSTR FSTR?29,"here"              ;   82x, saved 160
-        .FSTR FSTR?30,"his "              ;   66x, saved 128
-        .FSTR FSTR?31," a "               ;  131x, saved 128
-        .FSTR FSTR?32,"ed "               ;  116x, saved 113
-        .FSTR FSTR?33,"n't "              ;   39x, saved 112
-        .FSTR FSTR?34,"all"               ;  100x, saved 97
-        .FSTR FSTR?35," that"             ;   31x, saved 88
-        .FSTR FSTR?36,"es "               ;   88x, saved 85
-        .FSTR FSTR?37,"and"               ;   88x, saved 85
-        .FSTR FSTR?38,"Wizard"            ;   18x, saved 83
-        .FSTR FSTR?39,"appears"           ;   18x, saved 83
-        .FSTR FSTR?40,"south"             ;   29x, saved 82
-        .FSTR FSTR?41,"ed."               ;   41x, saved 78
-        .FSTR FSTR?42,"ing"               ;   81x, saved 78
-        .FSTR FSTR?43,"ter"               ;   80x, saved 77
-        .FSTR FSTR?44,"room"              ;   40x, saved 76
-        .FSTR FSTR?45,"'s "               ;   38x, saved 72
-        .FSTR FSTR?46,"have "             ;   25x, saved 70
-        .FSTR FSTR?47," from"             ;   25x, saved 70
-        .FSTR FSTR?48," in"               ;   73x, saved 70
-        .FSTR FSTR?49,"north"             ;   24x, saved 67
-        .FSTR FSTR?50,"Room"              ;   24x, saved 67
-        .FSTR FSTR?51,"ent"               ;   68x, saved 65
-        .FSTR FSTR?52,"e."                ;   66x, saved 63
-        .FSTR FSTR?53,"ead"               ;   65x, saved 62
-        .FSTR FSTR?54,"huge "             ;   22x, saved 61
-        .FSTR FSTR?55,"ly "               ;   64x, saved 61
-        .FSTR FSTR?56,"ight"              ;   32x, saved 60
-        .FSTR FSTR?57,"s."                ;   62x, saved 59
-        .FSTR FSTR?58,"A "                ;   62x, saved 59
-        .FSTR FSTR?59,"Frobozz"           ;   11x, saved 58
-        .FSTR FSTR?60,"aquarium"          ;   11x, saved 58
-        .FSTR FSTR?61,"re "               ;   60x, saved 57
-        .FSTR FSTR?62,"t."                ;   59x, saved 56
-        .FSTR FSTR?63," has "             ;   20x, saved 55
-        .FSTR FSTR?64," you"              ;   28x, saved 52
-        .FSTR FSTR?65,"one "              ;   28x, saved 52
-        .FSTR FSTR?66,"open"              ;   28x, saved 52
-        .FSTR FSTR?67,"door"              ;   28x, saved 52
-        .FSTR FSTR?68,"demon"             ;   18x, saved 49
-        .FSTR FSTR?69,"      "            ;   13x, saved 46
-        .FSTR FSTR?70," for"              ;   25x, saved 46
-        .FSTR FSTR?71,"ear"               ;   49x, saved 46
-        .FSTR FSTR?72,"tion"              ;   24x, saved 44
-        .FSTR FSTR?73,"not "              ;   24x, saved 44
-        .FSTR FSTR?74,"but "              ;   24x, saved 44
-        .FSTR FSTR?75,"y."                ;   47x, saved 44
-        .FSTR FSTR?76,"passage"           ;   10x, saved 43
-        .FSTR FSTR?77,"unicorn"           ;   10x, saved 43
-        .FSTR FSTR?78,"seems"             ;   16x, saved 43
-        .FSTR FSTR?79,"which "            ;   12x, saved 42
-        .FSTR FSTR?80,"menhir"            ;   12x, saved 42
-        .FSTR FSTR?81,"olcano"            ;   12x, saved 42
-        .FSTR FSTR?82,"er "               ;   45x, saved 42
-        .FSTR FSTR?83,"an "               ;   45x, saved 42
-        .FSTR FSTR?84,"est"               ;   44x, saved 41
-        .FSTR FSTR?85,"receptacl"         ;    7x, saved 40
-        .FSTR FSTR?86,"round"             ;   15x, saved 40
-        .FSTR FSTR?87,"!"""               ;   22x, saved 40
-        .FSTR FSTR?88,"ough"              ;   22x, saved 40
-        .FSTR FSTR?89,"out"               ;   42x, saved 39
-        .FSTR FSTR?90," st"               ;   42x, saved 39
-        .FSTR FSTR?91,"It"                ;   41x, saved 38
-        .FSTR FSTR?92,"black"             ;   14x, saved 37
-        .FSTR FSTR?93," do"               ;   40x, saved 37
-        .FSTR FSTR?94,"You"               ;   20x, saved 36
-        .FSTR FSTR?95,"look"              ;   20x, saved 36
-        .FSTR FSTR?96,"He "               ;   20x, saved 36
+        .FSTR FSTR?1," direction"        ;    7x, saved 46
+        .FSTR FSTR?2," crystal sphere"   ;    9x, saved 102
+        .FSTR FSTR?3,"receptacle"        ;    7x, saved 46
+        .FSTR FSTR?4,"The princess "     ;   12x, saved 130
+        .FSTR FSTR?5,"aquarium"          ;   11x, saved 58
+        .FSTR FSTR?6,"Frobozz"           ;   11x, saved 58
+        .FSTR FSTR?7,"passage"           ;   12x, saved 53
+        .FSTR FSTR?8,"unicorn"           ;   10x, saved 43
+        .FSTR FSTR?9,"appears"           ;   18x, saved 83
+        .FSTR FSTR?10,"olcano"            ;   12x, saved 42
+        .FSTR FSTR?11,"      "            ;   13x, saved 46
+        .FSTR FSTR?12," seems "           ;   16x, saved 73
+        .FSTR FSTR?13,"menhir"            ;   12x, saved 42
+        .FSTR FSTR?14,"basket"            ;   12x, saved 42
+        .FSTR FSTR?15,"dragon"            ;   24x, saved 90
+        .FSTR FSTR?16,"Wizard"            ;   34x, saved 163
+        .FSTR FSTR?17," with "            ;   51x, saved 198
+        .FSTR FSTR?18,"north"             ;   24x, saved 67
+        .FSTR FSTR?19,"south"             ;   29x, saved 82
+        .FSTR FSTR?20,"huge "             ;   24x, saved 67
+        .FSTR FSTR?21," has "             ;   24x, saved 67
+        .FSTR FSTR?22," that"             ;   36x, saved 103
+        .FSTR FSTR?23,"demon"             ;   18x, saved 49
+        .FSTR FSTR?24," from"             ;   45x, saved 130
+        .FSTR FSTR?25,", and "            ;   39x, saved 188
+        .FSTR FSTR?26," and "             ;   84x, saved 247
+        .FSTR FSTR?27," have "            ;   28x, saved 106
+        .FSTR FSTR?28,"to the "           ;   47x, saved 228
+        .FSTR FSTR?29,". To the "         ;   11x, saved 88
+        .FSTR FSTR?30,"s the "            ;   50x, saved 194
+        .FSTR FSTR?31," in the "          ;   35x, saved 202
+        .FSTR FSTR?32,"n the "            ;   38x, saved 146
+        .FSTR FSTR?33," of the "          ;   38x, saved 220
+        .FSTR FSTR?34," the "             ;  143x, saved 424
+        .FSTR FSTR?35,"Flathead"          ;   10x, saved 61
+        .FSTR FSTR?36," which"            ;   15x, saved 54
+        .FSTR FSTR?37,"one "              ;   29x, saved 54
+        .FSTR FSTR?38,"room"              ;   40x, saved 76
+        .FSTR FSTR?39," Room"             ;   19x, saved 70
+        .FSTR FSTR?40,"You are "          ;   23x, saved 152
+        .FSTR FSTR?41,"are "              ;   32x, saved 60
+        .FSTR FSTR?42,"This "             ;   27x, saved 102
+        .FSTR FSTR?43,"his "              ;   47x, saved 90
+        .FSTR FSTR?44,"ight"              ;   32x, saved 60
+        .FSTR FSTR?45," to "              ;   83x, saved 162
+        .FSTR FSTR?46," of "              ;  103x, saved 202
+        .FSTR FSTR?47,"You can't "        ;   34x, saved 328
+        .FSTR FSTR?48,"n't "              ;   38x, saved 109
+        .FSTR FSTR?49,"here."             ;   26x, saved 98
+        .FSTR FSTR?50,"There"             ;   44x, saved 170
+        .FSTR FSTR?51,"here"              ;   34x, saved 64
+        .FSTR FSTR?52,"door"              ;   28x, saved 52
+        .FSTR FSTR?53," you "             ;   75x, saved 220
+        .FSTR FSTR?54," your "            ;   32x, saved 122
+        .FSTR FSTR?55," you"              ;   48x, saved 92
+        .FSTR FSTR?56,"The "              ;  232x, saved 691
+        .FSTR FSTR?57," is a "            ;   51x, saved 198
+        .FSTR FSTR?58," is now "          ;   14x, saved 76
+        .FSTR FSTR?59," is "              ;  118x, saved 232
+        .FSTR FSTR?60,", but "            ;   15x, saved 68
+        .FSTR FSTR?61,"not "              ;   24x, saved 44
+        .FSTR FSTR?62,"open"              ;   28x, saved 52
+        .FSTR FSTR?63,"You "              ;   51x, saved 148
+        .FSTR FSTR?64,"ing "              ;  119x, saved 234
+        .FSTR FSTR?65," for"              ;   32x, saved 60
+        .FSTR FSTR?66," a "               ;  138x, saved 135
+        .FSTR FSTR?67,"three-headed dog"  ;    4x, saved 43
+        .FSTR FSTR?68,"ed "               ;  120x, saved 117
+        .FSTR FSTR?69," in"               ;   82x, saved 79
+        .FSTR FSTR?70,"balloon"           ;   15x, saved 68
+        .FSTR FSTR?71,"all"               ;   85x, saved 82
+        .FSTR FSTR?72," be"               ;   51x, saved 48
+        .FSTR FSTR?73,"ast"               ;   52x, saved 49
+        .FSTR FSTR?74,"and"               ;   74x, saved 71
+        .FSTR FSTR?75,"est"               ;   56x, saved 53
+        .FSTR FSTR?76,"'s "               ;   37x, saved 70
+        .FSTR FSTR?77,"ed."               ;   44x, saved 84
+        .FSTR FSTR?78,"ly "               ;   61x, saved 58
+        .FSTR FSTR?79,"er "               ;   58x, saved 55
+        .FSTR FSTR?80,"ear"               ;   48x, saved 45
+        .FSTR FSTR?81,"es "               ;   72x, saved 69
+        .FSTR FSTR?82,"out"               ;   46x, saved 43
+        .FSTR FSTR?83,"ead"               ;   51x, saved 48
+        .FSTR FSTR?84,"You"               ;   30x, saved 56
+        .FSTR FSTR?85,"ter"               ;   54x, saved 51
+        .FSTR FSTR?86,"ing"               ;   98x, saved 95
+        .FSTR FSTR?87,"ent"               ;   67x, saved 64
+        .FSTR FSTR?88,". I"               ;   25x, saved 70
+        .FSTR FSTR?89,". "                ;  140x, saved 137
+        .FSTR FSTR?90,", "                ;  151x, saved 148
+        .FSTR FSTR?91,"..."               ;   15x, saved 54
+        .FSTR FSTR?92,"e."                ;   64x, saved 61
+        .FSTR FSTR?93,"A "                ;   59x, saved 56
+        .FSTR FSTR?94,"y."                ;   47x, saved 44
+        .FSTR FSTR?95,"s."                ;   58x, saved 55
+        .FSTR FSTR?96,"he "               ;   33x, saved 30
 WORDS::
         FSTR?1
         FSTR?2
